@@ -1608,4 +1608,187 @@ top: -90px;
  /* -----------------------Gallery-------------------------------- */
 
 
+
+ /*-------------------------RESPONSIVE------------------------------ */
+
+ @media only screen and (min-width: 1600px) {
+
+  img.main-photo{
+    right: 0px;
+    width: 800px;
+  }
+
+  .guruji-text{
+    font-size: 140px;
+    line-height: 110px;
+  }
+
+  .founder{
+    font-size: 40px;
+  }
+
+  .pro-text{
+    font-size: 28px;
+  }
+
+  .pro-photo{
+    width: 600px;
+  }
+
+  h1.astro-course-text{
+    font-size: 58px;
+    margin-top: 90px;
+    margin-left: 530px;
+    margin-right: 250px;
+  }
+
+  p.astro-course-para{
+    font-size: 28px;
+    margin-top: 180px;
+  }
+
+  .course-gallery-image{
+    padding: 20px;
+    margin-top: 300px;
+}
+
+.transparent-box1{
+    height: 200px;
+    width: 266px;
+}
+
+button.astro-course-btn{
+  font-weight: 500;
+  font-size: 26px;
+  left: 800px;
+  margin-top: 50px;
+  z-index: 1000;
+  position: relative;
+  width: 209px;
+  height: 80px;
+}
+
+button.astro-con-btn{
+  font-weight: 500;
+  font-size: 26px;
+  left: 800px;
+  margin-top: 50px;
+  z-index: 1000;
+  position: relative;
+  width: 209px;
+  height: 80px;
+}
+
+h1.consultation-h1{
+  font-size: 54px;
+  margin-left: 490px;
+}
+
+p.con-p{
+  margin-left: 650px;
+  margin-right: 130px;
+  margin-top: 24px;
+  font-size: 28px;
+}
+
+.info-card{
+  height: 218px;
+  overflow: hidden;
+  padding: 50px;
+  text-align: center;
+  margin: 10px;
+  width: 250px;
+  border-radius: 12px;
+}
+
+.main-section h1{
+  font-size: 25px;
+}
+
+.inst-text{
+
+  font-size: 32px;
+  line-height: 2.8rem;
+  margin-left: 950px;
+  margin-right: 30px;
+  margin-top: 250px;
+}
+
+#book{
+  margin-left: -450px;
+}
+
+.e-book-text {
+  margin-left: 60px;
+  margin-right: 200px;
+  margin-top: 250px;
+}
+
+h1.m-t{
+  font-size: 180px;
+
+  }
+  
+  h1.s-t{
+    font-size: 70px;
+
+    }
+  
+  h2.l-t{
+      font-size: 32px;
+      }
+
+      button.astro-eb-btn{
+        left: -880px;
+        width: 209px;
+        height: 80px;
+        margin-top: 750px;
+      }
+
+
+      .x1 {
+        -webkit-transform: scale(0.85);
+        -moz-transform: scale(0.85);
+        transform: scale(0.85);
+        }
+        
+        .x2 { 
+        -webkit-transform: scale(0.3);
+        -moz-transform: scale(0.4);
+        transform: scale(0.4);
+        }
+        
+        .x3 {
+        -webkit-transform: scale(0.6);
+        -moz-transform: scale(0.6);
+        transform: scale(0.6);
+        }
+        
+        .x4 {
+        -webkit-transform: scale(0.55);
+        -moz-transform: scale(0.55);
+        transform: scale(0.55);
+        }
+        
+        .x5 {
+        -webkit-transform: scale(0.55);
+        -moz-transform: scale(0.55);
+        transform: scale(0.55);
+        }
+        
+        #background-wrap{
+          left: -100px;
+          padding-top: 80px;
+          position: absolute;
+          right: 0px;
+          top: 20px;
+          z-index: -1;
+      }
+
+}
+
+
+  /*-------------------------RESPONSIVE------------------------------ */
+
+
  
